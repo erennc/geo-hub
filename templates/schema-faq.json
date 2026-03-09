@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is Generative Engine Optimization (GEO)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "GEO is the practice of optimizing content to be cited, referenced, and recommended by AI-powered search engines like ChatGPT, Perplexity, Google AI Overviews, Claude, and Gemini."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How is GEO different from SEO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Traditional SEO focuses on ranking in search engine results pages (SERPs). GEO focuses on being the source that AI engines trust and quote in their generated responses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "[Your question here]",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "[Your answer here]"
+      }
+    }
+  ]
+}

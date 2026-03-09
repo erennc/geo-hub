@@ -1,0 +1,23 @@
+# [Your Company Name]
+
+> [One sentence description of what you do]
+
+## About
+[2-3 sentences about your company, products, and unique value proposition.
+Include what makes you different from competitors.]
+
+## Products
+- [Product 1]: [Brief description and key benefit]
+- [Product 2]: [Brief description and key benefit]
+- [Product 3]: [Brief description and key benefit]
+
+## Key Resources
+- Documentation: [URL]
+- Blog: [URL]
+- API Reference: [URL]
+- Changelog: [URL]
+
+## Contact
+- Website: [URL]
+- Support: [Email or URL]
+- Twitter/X: [Handle]

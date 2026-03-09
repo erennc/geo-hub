@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "[Your Company Name]",
+  "url": "[Your Website URL]",
+  "logo": "[Logo URL]",
+  "description": "[Company description — 1-2 sentences]",
+  "foundingDate": "[YYYY]",
+  "sameAs": [
+    "[Twitter URL]",
+    "[LinkedIn URL]",
+    "[GitHub URL]"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer service",
+    "url": "[Support URL]",
+    "email": "[Support Email]"
+  },
+  "knowsAbout": [
+    "[Topic 1]",
+    "[Topic 2]",
+    "[Topic 3]"
+  ]
+}
