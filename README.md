@@ -70,6 +70,7 @@ geo-audit https://yourwebsite.com
 
 | Tool | Description |
 |------|-------------|
+| [Geo Builder](https://geo-builder.com) | AI-powered e-commerce GEO platform — generates `llms.txt`, Schema.org markup, and optimizes product catalogs for AI search engines (Shopify, Amazon, WooCommerce) |
 | [AutoGEO](https://github.com/AutoGEO) | Automated framework that rewrites content for AI search |
 | [Daydream](https://daydream.wtf) | AI visibility optimization with content discoverability focus |
 | [Scrunch AI](https://scrunch.ai) | Explains how AI interprets each page, gives step-by-step fixes |
